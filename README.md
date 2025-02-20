@@ -4,7 +4,7 @@ As an aspiring software developer, I want to create programs that help with home
 
 The Simventory is a simple inventory app that helps users save items to an inventory, view their inventory, update the quantity of an item like adding in or taking from, update the price of an item, and delete an item from the inventory. As a stretch, I also added functionalities to calculate the total value of the inventory on hand and to display the out-of-stock inventory.
 
-[Software Demo Video](http://youtube.com)
+[Software Demo Video](https://youtu.be/4bVnX_hqzgw)
 
 # Relational Database
 
