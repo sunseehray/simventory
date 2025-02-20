@@ -10,7 +10,7 @@ The Simventory is a simple inventory app that helps users save items to an inven
 
 For this project, I am using SQLite which is already supported in Python by importing the sqlite3 library.
 
-The structure of the table has five fields: id, name, quantity, price, and notes with id being the primary key, an INTEGER and auto-incremented. The name is a TEXT that is NOT NULL. The quantity is an INTEGER that is also NOT NULL. The price is a REAL number that may be null. Lastly, the notes is a TEXT that may be null.
+The structure of the table has four fields: id, name, quantity, and price with id being the primary key, an INTEGER and auto-incremented. The name is a TEXT that is NOT NULL. The quantity is an INTEGER that is also NOT NULL. Lastly, the price is a REAL number that may be null.
 
 # Development Environment
 
